@@ -1,0 +1,2540 @@
+{
+  "results": {
+    "kmmlu": {
+      "acc,none": 0.2278047387953183,
+      "acc_stderr,none": 0.0021882963303211595,
+      "alias": "kmmlu"
+    },
+    "kmmlu_applied_science": {
+      "acc,none": 0.1793103448275862,
+      "acc_stderr,none": 0.0035260609170576487,
+      "alias": " - kmmlu_applied_science"
+    },
+    "kmmlu_aviation_engineering_and_maintenance": {
+      "alias": "  - kmmlu_aviation_engineering_and_maintenance",
+      "acc,none": 0.144,
+      "acc_stderr,none": 0.01110798754893916
+    },
+    "kmmlu_electronics_engineering": {
+      "alias": "  - kmmlu_electronics_engineering",
+      "acc,none": 0.22,
+      "acc_stderr,none": 0.013106173040661863
+    },
+    "kmmlu_energy_management": {
+      "alias": "  - kmmlu_energy_management",
+      "acc,none": 0.208,
+      "acc_stderr,none": 0.01284137457209706
+    },
+    "kmmlu_environmental_science": {
+      "alias": "  - kmmlu_environmental_science",
+      "acc,none": 0.089,
+      "acc_stderr,none": 0.009008893392651518
+    },
+    "kmmlu_gas_technology_and_engineering": {
+      "alias": "  - kmmlu_gas_technology_and_engineering",
+      "acc,none": 0.143,
+      "acc_stderr,none": 0.011075814808567074
+    },
+    "kmmlu_geomatics": {
+      "alias": "  - kmmlu_geomatics",
+      "acc,none": 0.12,
+      "acc_stderr,none": 0.010281328012747462
+    },
+    "kmmlu_industrial_engineer": {
+      "alias": "  - kmmlu_industrial_engineer",
+      "acc,none": 0.124,
+      "acc_stderr,none": 0.010427498872343873
+    },
+    "kmmlu_machine_design_and_manufacturing": {
+      "alias": "  - kmmlu_machine_design_and_manufacturing",
+      "acc,none": 0.244,
+      "acc_stderr,none": 0.013588548437881386
+    },
+    "kmmlu_maritime_engineering": {
+      "alias": "  - kmmlu_maritime_engineering",
+      "acc,none": 0.22,
+      "acc_stderr,none": 0.016925645111409954
+    },
+    "kmmlu_nondestructive_testing": {
+      "alias": "  - kmmlu_nondestructive_testing",
+      "acc,none": 0.217,
+      "acc_stderr,none": 0.013041513757270706
+    },
+    "kmmlu_railway_and_automotive_engineering": {
+      "alias": "  - kmmlu_railway_and_automotive_engineering",
+      "acc,none": 0.164,
+      "acc_stderr,none": 0.011715000693181423
+    },
+    "kmmlu_telecommunications_and_wireless_technology": {
+      "alias": "  - kmmlu_telecommunications_and_wireless_technology",
+      "acc,none": 0.275,
+      "acc_stderr,none": 0.014127086556490498
+    },
+    "kmmlu_humss": {
+      "acc,none": 0.2769980506822612,
+      "acc_stderr,none": 0.006223667123293376,
+      "alias": " - kmmlu_humss"
+    },
+    "kmmlu_accounting": {
+      "alias": "  - kmmlu_accounting",
+      "acc,none": 0.2,
+      "acc_stderr,none": 0.04020151261036849
+    },
+    "kmmlu_criminal_law": {
+      "alias": "  - kmmlu_criminal_law",
+      "acc,none": 0.305,
+      "acc_stderr,none": 0.03263741725420573
+    },
+    "kmmlu_economics": {
+      "alias": "  - kmmlu_economics",
+      "acc,none": 0.3153846153846154,
+      "acc_stderr,none": 0.040911812869558216
+    },
+    "kmmlu_education": {
+      "alias": "  - kmmlu_education",
+      "acc,none": 0.34,
+      "acc_stderr,none": 0.04760952285695233
+    },
+    "kmmlu_korean_history": {
+      "alias": "  - kmmlu_korean_history",
+      "acc,none": 0.2,
+      "acc_stderr,none": 0.04020151261036849
+    },
+    "kmmlu_law": {
+      "alias": "  - kmmlu_law",
+      "acc,none": 0.255,
+      "acc_stderr,none": 0.013790038620872863
+    },
+    "kmmlu_management": {
+      "alias": "  - kmmlu_management",
+      "acc,none": 0.212,
+      "acc_stderr,none": 0.01293148186493811
+    },
+    "kmmlu_political_science_and_sociology": {
+      "alias": "  - kmmlu_political_science_and_sociology",
+      "acc,none": 0.30666666666666664,
+      "acc_stderr,none": 0.026666666666666665
+    },
+    "kmmlu_psychology": {
+      "alias": "  - kmmlu_psychology",
+      "acc,none": 0.322,
+      "acc_stderr,none": 0.014782913600996744
+    },
+    "kmmlu_social_welfare": {
+      "alias": "  - kmmlu_social_welfare",
+      "acc,none": 0.312,
+      "acc_stderr,none": 0.014658474370509055
+    },
+    "kmmlu_taxation": {
+      "alias": "  - kmmlu_taxation",
+      "acc,none": 0.26,
+      "acc_stderr,none": 0.031093957143700304
+    },
+    "kmmlu_other": {
+      "acc,none": 0.25166666666666665,
+      "acc_stderr,none": 0.004550540331599676,
+      "alias": " - kmmlu_other"
+    },
+    "kmmlu_agricultural_sciences": {
+      "alias": "  - kmmlu_agricultural_sciences",
+      "acc,none": 0.168,
+      "acc_stderr,none": 0.01182860583145435
+    },
+    "kmmlu_construction": {
+      "alias": "  - kmmlu_construction",
+      "acc,none": 0.149,
+      "acc_stderr,none": 0.011266140684632246
+    },
+    "kmmlu_fashion": {
+      "alias": "  - kmmlu_fashion",
+      "acc,none": 0.347,
+      "acc_stderr,none": 0.015060472031706637
+    },
+    "kmmlu_food_processing": {
+      "alias": "  - kmmlu_food_processing",
+      "acc,none": 0.263,
+      "acc_stderr,none": 0.013929286594259776
+    },
+    "kmmlu_health": {
+      "alias": "  - kmmlu_health",
+      "acc,none": 0.42,
+      "acc_stderr,none": 0.04960449637488583
+    },
+    "kmmlu_interior_architecture_and_design": {
+      "alias": "  - kmmlu_interior_architecture_and_design",
+      "acc,none": 0.233,
+      "acc_stderr,none": 0.01337497251921999
+    },
+    "kmmlu_marketing": {
+      "alias": "  - kmmlu_marketing",
+      "acc,none": 0.51,
+      "acc_stderr,none": 0.015816135752773183
+    },
+    "kmmlu_patent": {
+      "alias": "  - kmmlu_patent",
+      "acc,none": 0.34,
+      "acc_stderr,none": 0.04760952285695233
+    },
+    "kmmlu_public_safety": {
+      "alias": "  - kmmlu_public_safety",
+      "acc,none": 0.095,
+      "acc_stderr,none": 0.009276910103103353
+    },
+    "kmmlu_real_estate": {
+      "alias": "  - kmmlu_real_estate",
+      "acc,none": 0.245,
+      "acc_stderr,none": 0.03048807329211419
+    },
+    "kmmlu_refrigerating_machinery": {
+      "alias": "  - kmmlu_refrigerating_machinery",
+      "acc,none": 0.224,
+      "acc_stderr,none": 0.013190830072364589
+    },
+    "kmmlu_stem": {
+      "acc,none": 0.2388888888888889,
+      "acc_stderr,none": 0.004192670368374036,
+      "alias": " - kmmlu_stem"
+    },
+    "kmmlu_biology": {
+      "alias": "  - kmmlu_biology",
+      "acc,none": 0.269,
+      "acc_stderr,none": 0.014029819522568203
+    },
+    "kmmlu_chemical_engineering": {
+      "alias": "  - kmmlu_chemical_engineering",
+      "acc,none": 0.237,
+      "acc_stderr,none": 0.013454070462577935
+    },
+    "kmmlu_chemistry": {
+      "alias": "  - kmmlu_chemistry",
+      "acc,none": 0.31,
+      "acc_stderr,none": 0.018896961623437316
+    },
+    "kmmlu_civil_engineering": {
+      "alias": "  - kmmlu_civil_engineering",
+      "acc,none": 0.108,
+      "acc_stderr,none": 0.009820001651345708
+    },
+    "kmmlu_computer_science": {
+      "alias": "  - kmmlu_computer_science",
+      "acc,none": 0.366,
+      "acc_stderr,none": 0.0152406127264056
+    },
+    "kmmlu_ecology": {
+      "alias": "  - kmmlu_ecology",
+      "acc,none": 0.266,
+      "acc_stderr,none": 0.013979965645145179
+    },
+    "kmmlu_electrical_engineering": {
+      "alias": "  - kmmlu_electrical_engineering",
+      "acc,none": 0.05,
+      "acc_stderr,none": 0.006895472974897918
+    },
+    "kmmlu_information_technology": {
+      "alias": "  - kmmlu_information_technology",
+      "acc,none": 0.276,
+      "acc_stderr,none": 0.01414298497574059
+    },
+    "kmmlu_materials_engineering": {
+      "alias": "  - kmmlu_materials_engineering",
+      "acc,none": 0.297,
+      "acc_stderr,none": 0.01445683229480096
+    },
+    "kmmlu_math": {
+      "alias": "  - kmmlu_math",
+      "acc,none": 0.28,
+      "acc_stderr,none": 0.02596627604487782
+    },
+    "kmmlu_mechanical_engineering": {
+      "alias": "  - kmmlu_mechanical_engineering",
+      "acc,none": 0.226,
+      "acc_stderr,none": 0.013232501619085452
+    }
+  },
+  "groups": {
+    "kmmlu": {
+      "acc,none": 0.2278047387953183,
+      "acc_stderr,none": 0.0021882963303211595,
+      "alias": "kmmlu"
+    },
+    "kmmlu_applied_science": {
+      "acc,none": 0.1793103448275862,
+      "acc_stderr,none": 0.0035260609170576487,
+      "alias": " - kmmlu_applied_science"
+    },
+    "kmmlu_humss": {
+      "acc,none": 0.2769980506822612,
+      "acc_stderr,none": 0.006223667123293376,
+      "alias": " - kmmlu_humss"
+    },
+    "kmmlu_other": {
+      "acc,none": 0.25166666666666665,
+      "acc_stderr,none": 0.004550540331599676,
+      "alias": " - kmmlu_other"
+    },
+    "kmmlu_stem": {
+      "acc,none": 0.2388888888888889,
+      "acc_stderr,none": 0.004192670368374036,
+      "alias": " - kmmlu_stem"
+    }
+  },
+  "group_subtasks": {
+    "kmmlu_humss": [
+      "kmmlu_psychology",
+      "kmmlu_korean_history",
+      "kmmlu_taxation",
+      "kmmlu_accounting",
+      "kmmlu_political_science_and_sociology",
+      "kmmlu_social_welfare",
+      "kmmlu_education",
+      "kmmlu_law",
+      "kmmlu_economics",
+      "kmmlu_criminal_law",
+      "kmmlu_management"
+    ],
+    "kmmlu_applied_science": [
+      "kmmlu_energy_management",
+      "kmmlu_nondestructive_testing",
+      "kmmlu_telecommunications_and_wireless_technology",
+      "kmmlu_industrial_engineer",
+      "kmmlu_electronics_engineering",
+      "kmmlu_aviation_engineering_and_maintenance",
+      "kmmlu_machine_design_and_manufacturing",
+      "kmmlu_maritime_engineering",
+      "kmmlu_gas_technology_and_engineering",
+      "kmmlu_railway_and_automotive_engineering",
+      "kmmlu_geomatics",
+      "kmmlu_environmental_science"
+    ],
+    "kmmlu_other": [
+      "kmmlu_construction",
+      "kmmlu_refrigerating_machinery",
+      "kmmlu_interior_architecture_and_design",
+      "kmmlu_food_processing",
+      "kmmlu_fashion",
+      "kmmlu_patent",
+      "kmmlu_agricultural_sciences",
+      "kmmlu_marketing",
+      "kmmlu_real_estate",
+      "kmmlu_health",
+      "kmmlu_public_safety"
+    ],
+    "kmmlu_stem": [
+      "kmmlu_information_technology",
+      "kmmlu_computer_science",
+      "kmmlu_chemical_engineering",
+      "kmmlu_math",
+      "kmmlu_electrical_engineering",
+      "kmmlu_civil_engineering",
+      "kmmlu_materials_engineering",
+      "kmmlu_chemistry",
+      "kmmlu_ecology",
+      "kmmlu_biology",
+      "kmmlu_mechanical_engineering"
+    ],
+    "kmmlu": [
+      "kmmlu_stem",
+      "kmmlu_other",
+      "kmmlu_applied_science",
+      "kmmlu_humss"
+    ]
+  },
+  "configs": {
+    "kmmlu_accounting": {
+      "task": "kmmlu_accounting",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Accounting",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_agricultural_sciences": {
+      "task": "kmmlu_agricultural_sciences",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Agricultural-Sciences",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_aviation_engineering_and_maintenance": {
+      "task": "kmmlu_aviation_engineering_and_maintenance",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Aviation-Engineering-and-Maintenance",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_biology": {
+      "task": "kmmlu_biology",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Biology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_chemical_engineering": {
+      "task": "kmmlu_chemical_engineering",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Chemical-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_chemistry": {
+      "task": "kmmlu_chemistry",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Chemistry",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_civil_engineering": {
+      "task": "kmmlu_civil_engineering",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Civil-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_computer_science": {
+      "task": "kmmlu_computer_science",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Computer-Science",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_construction": {
+      "task": "kmmlu_construction",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Construction",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_criminal_law": {
+      "task": "kmmlu_criminal_law",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Criminal-Law",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_ecology": {
+      "task": "kmmlu_ecology",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Ecology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_economics": {
+      "task": "kmmlu_economics",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Economics",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_education": {
+      "task": "kmmlu_education",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Education",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_electrical_engineering": {
+      "task": "kmmlu_electrical_engineering",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Electrical-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_electronics_engineering": {
+      "task": "kmmlu_electronics_engineering",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Electronics-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_energy_management": {
+      "task": "kmmlu_energy_management",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Energy-Management",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_environmental_science": {
+      "task": "kmmlu_environmental_science",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Environmental-Science",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_fashion": {
+      "task": "kmmlu_fashion",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Fashion",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_food_processing": {
+      "task": "kmmlu_food_processing",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Food-Processing",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_gas_technology_and_engineering": {
+      "task": "kmmlu_gas_technology_and_engineering",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Gas-Technology-and-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_geomatics": {
+      "task": "kmmlu_geomatics",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Geomatics",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_health": {
+      "task": "kmmlu_health",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Health",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_industrial_engineer": {
+      "task": "kmmlu_industrial_engineer",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Industrial-Engineer",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_information_technology": {
+      "task": "kmmlu_information_technology",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Information-Technology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_interior_architecture_and_design": {
+      "task": "kmmlu_interior_architecture_and_design",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Interior-Architecture-and-Design",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_korean_history": {
+      "task": "kmmlu_korean_history",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Korean-History",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_law": {
+      "task": "kmmlu_law",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Law",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_machine_design_and_manufacturing": {
+      "task": "kmmlu_machine_design_and_manufacturing",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Machine-Design-and-Manufacturing",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_management": {
+      "task": "kmmlu_management",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Management",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_maritime_engineering": {
+      "task": "kmmlu_maritime_engineering",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Maritime-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_marketing": {
+      "task": "kmmlu_marketing",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Marketing",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_materials_engineering": {
+      "task": "kmmlu_materials_engineering",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Materials-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_math": {
+      "task": "kmmlu_math",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Math",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_mechanical_engineering": {
+      "task": "kmmlu_mechanical_engineering",
+      "tag": "kmmlu_stem_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Mechanical-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_nondestructive_testing": {
+      "task": "kmmlu_nondestructive_testing",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Nondestructive-Testing",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_patent": {
+      "task": "kmmlu_patent",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Patent",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_political_science_and_sociology": {
+      "task": "kmmlu_political_science_and_sociology",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Political-Science-and-Sociology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_psychology": {
+      "task": "kmmlu_psychology",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Psychology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_public_safety": {
+      "task": "kmmlu_public_safety",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Public-Safety",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_railway_and_automotive_engineering": {
+      "task": "kmmlu_railway_and_automotive_engineering",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Railway-and-Automotive-Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_real_estate": {
+      "task": "kmmlu_real_estate",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Real-Estate",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_refrigerating_machinery": {
+      "task": "kmmlu_refrigerating_machinery",
+      "tag": "kmmlu_other_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Refrigerating-Machinery",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_social_welfare": {
+      "task": "kmmlu_social_welfare",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Social-Welfare",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_taxation": {
+      "task": "kmmlu_taxation",
+      "tag": "kmmlu_humss_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Taxation",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    },
+    "kmmlu_telecommunications_and_wireless_technology": {
+      "task": "kmmlu_telecommunications_and_wireless_technology",
+      "tag": "kmmlu_applied_science_tasks",
+      "dataset_path": "HAERAE-HUB/KMMLU",
+      "dataset_name": "Telecommunications-and-Wireless-Technology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "{{question.strip()}}\nA. {{A}}\nB. {{B}}\nC. {{C}}\nD. {{D}}\n정답：",
+      "doc_to_target": "{{answer-1}}",
+      "unsafe_code": false,
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "pretrained": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+        "dtype": "float16",
+        "device_map": "auto",
+        "trust_remote_code": true
+      }
+    }
+  },
+  "versions": {
+    "kmmlu": 2.0,
+    "kmmlu_accounting": 2.0,
+    "kmmlu_agricultural_sciences": 2.0,
+    "kmmlu_applied_science": 2.0,
+    "kmmlu_aviation_engineering_and_maintenance": 2.0,
+    "kmmlu_biology": 2.0,
+    "kmmlu_chemical_engineering": 2.0,
+    "kmmlu_chemistry": 2.0,
+    "kmmlu_civil_engineering": 2.0,
+    "kmmlu_computer_science": 2.0,
+    "kmmlu_construction": 2.0,
+    "kmmlu_criminal_law": 2.0,
+    "kmmlu_ecology": 2.0,
+    "kmmlu_economics": 2.0,
+    "kmmlu_education": 2.0,
+    "kmmlu_electrical_engineering": 2.0,
+    "kmmlu_electronics_engineering": 2.0,
+    "kmmlu_energy_management": 2.0,
+    "kmmlu_environmental_science": 2.0,
+    "kmmlu_fashion": 2.0,
+    "kmmlu_food_processing": 2.0,
+    "kmmlu_gas_technology_and_engineering": 2.0,
+    "kmmlu_geomatics": 2.0,
+    "kmmlu_health": 2.0,
+    "kmmlu_humss": 2.0,
+    "kmmlu_industrial_engineer": 2.0,
+    "kmmlu_information_technology": 2.0,
+    "kmmlu_interior_architecture_and_design": 2.0,
+    "kmmlu_korean_history": 2.0,
+    "kmmlu_law": 2.0,
+    "kmmlu_machine_design_and_manufacturing": 2.0,
+    "kmmlu_management": 2.0,
+    "kmmlu_maritime_engineering": 2.0,
+    "kmmlu_marketing": 2.0,
+    "kmmlu_materials_engineering": 2.0,
+    "kmmlu_math": 2.0,
+    "kmmlu_mechanical_engineering": 2.0,
+    "kmmlu_nondestructive_testing": 2.0,
+    "kmmlu_other": 2.0,
+    "kmmlu_patent": 2.0,
+    "kmmlu_political_science_and_sociology": 2.0,
+    "kmmlu_psychology": 2.0,
+    "kmmlu_public_safety": 2.0,
+    "kmmlu_railway_and_automotive_engineering": 2.0,
+    "kmmlu_real_estate": 2.0,
+    "kmmlu_refrigerating_machinery": 2.0,
+    "kmmlu_social_welfare": 2.0,
+    "kmmlu_stem": 2.0,
+    "kmmlu_taxation": 2.0,
+    "kmmlu_telecommunications_and_wireless_technology": 2.0
+  },
+  "n-shot": {
+    "kmmlu_accounting": 5,
+    "kmmlu_agricultural_sciences": 5,
+    "kmmlu_aviation_engineering_and_maintenance": 5,
+    "kmmlu_biology": 5,
+    "kmmlu_chemical_engineering": 5,
+    "kmmlu_chemistry": 5,
+    "kmmlu_civil_engineering": 5,
+    "kmmlu_computer_science": 5,
+    "kmmlu_construction": 5,
+    "kmmlu_criminal_law": 5,
+    "kmmlu_ecology": 5,
+    "kmmlu_economics": 5,
+    "kmmlu_education": 5,
+    "kmmlu_electrical_engineering": 5,
+    "kmmlu_electronics_engineering": 5,
+    "kmmlu_energy_management": 5,
+    "kmmlu_environmental_science": 5,
+    "kmmlu_fashion": 5,
+    "kmmlu_food_processing": 5,
+    "kmmlu_gas_technology_and_engineering": 5,
+    "kmmlu_geomatics": 5,
+    "kmmlu_health": 5,
+    "kmmlu_industrial_engineer": 5,
+    "kmmlu_information_technology": 5,
+    "kmmlu_interior_architecture_and_design": 5,
+    "kmmlu_korean_history": 5,
+    "kmmlu_law": 5,
+    "kmmlu_machine_design_and_manufacturing": 5,
+    "kmmlu_management": 5,
+    "kmmlu_maritime_engineering": 5,
+    "kmmlu_marketing": 5,
+    "kmmlu_materials_engineering": 5,
+    "kmmlu_math": 5,
+    "kmmlu_mechanical_engineering": 5,
+    "kmmlu_nondestructive_testing": 5,
+    "kmmlu_patent": 5,
+    "kmmlu_political_science_and_sociology": 5,
+    "kmmlu_psychology": 5,
+    "kmmlu_public_safety": 5,
+    "kmmlu_railway_and_automotive_engineering": 5,
+    "kmmlu_real_estate": 5,
+    "kmmlu_refrigerating_machinery": 5,
+    "kmmlu_social_welfare": 5,
+    "kmmlu_taxation": 5,
+    "kmmlu_telecommunications_and_wireless_technology": 5
+  },
+  "higher_is_better": {
+    "kmmlu": {
+      "acc": true
+    },
+    "kmmlu_accounting": {
+      "acc": true
+    },
+    "kmmlu_agricultural_sciences": {
+      "acc": true
+    },
+    "kmmlu_applied_science": {
+      "acc": true
+    },
+    "kmmlu_aviation_engineering_and_maintenance": {
+      "acc": true
+    },
+    "kmmlu_biology": {
+      "acc": true
+    },
+    "kmmlu_chemical_engineering": {
+      "acc": true
+    },
+    "kmmlu_chemistry": {
+      "acc": true
+    },
+    "kmmlu_civil_engineering": {
+      "acc": true
+    },
+    "kmmlu_computer_science": {
+      "acc": true
+    },
+    "kmmlu_construction": {
+      "acc": true
+    },
+    "kmmlu_criminal_law": {
+      "acc": true
+    },
+    "kmmlu_ecology": {
+      "acc": true
+    },
+    "kmmlu_economics": {
+      "acc": true
+    },
+    "kmmlu_education": {
+      "acc": true
+    },
+    "kmmlu_electrical_engineering": {
+      "acc": true
+    },
+    "kmmlu_electronics_engineering": {
+      "acc": true
+    },
+    "kmmlu_energy_management": {
+      "acc": true
+    },
+    "kmmlu_environmental_science": {
+      "acc": true
+    },
+    "kmmlu_fashion": {
+      "acc": true
+    },
+    "kmmlu_food_processing": {
+      "acc": true
+    },
+    "kmmlu_gas_technology_and_engineering": {
+      "acc": true
+    },
+    "kmmlu_geomatics": {
+      "acc": true
+    },
+    "kmmlu_health": {
+      "acc": true
+    },
+    "kmmlu_humss": {
+      "acc": true
+    },
+    "kmmlu_industrial_engineer": {
+      "acc": true
+    },
+    "kmmlu_information_technology": {
+      "acc": true
+    },
+    "kmmlu_interior_architecture_and_design": {
+      "acc": true
+    },
+    "kmmlu_korean_history": {
+      "acc": true
+    },
+    "kmmlu_law": {
+      "acc": true
+    },
+    "kmmlu_machine_design_and_manufacturing": {
+      "acc": true
+    },
+    "kmmlu_management": {
+      "acc": true
+    },
+    "kmmlu_maritime_engineering": {
+      "acc": true
+    },
+    "kmmlu_marketing": {
+      "acc": true
+    },
+    "kmmlu_materials_engineering": {
+      "acc": true
+    },
+    "kmmlu_math": {
+      "acc": true
+    },
+    "kmmlu_mechanical_engineering": {
+      "acc": true
+    },
+    "kmmlu_nondestructive_testing": {
+      "acc": true
+    },
+    "kmmlu_other": {
+      "acc": true
+    },
+    "kmmlu_patent": {
+      "acc": true
+    },
+    "kmmlu_political_science_and_sociology": {
+      "acc": true
+    },
+    "kmmlu_psychology": {
+      "acc": true
+    },
+    "kmmlu_public_safety": {
+      "acc": true
+    },
+    "kmmlu_railway_and_automotive_engineering": {
+      "acc": true
+    },
+    "kmmlu_real_estate": {
+      "acc": true
+    },
+    "kmmlu_refrigerating_machinery": {
+      "acc": true
+    },
+    "kmmlu_social_welfare": {
+      "acc": true
+    },
+    "kmmlu_stem": {
+      "acc": true
+    },
+    "kmmlu_taxation": {
+      "acc": true
+    },
+    "kmmlu_telecommunications_and_wireless_technology": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "kmmlu_information_technology": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_computer_science": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_chemical_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_math": {
+      "original": 300,
+      "effective": 300
+    },
+    "kmmlu_electrical_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_civil_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_materials_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_chemistry": {
+      "original": 600,
+      "effective": 600
+    },
+    "kmmlu_ecology": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_biology": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_mechanical_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_construction": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_refrigerating_machinery": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_interior_architecture_and_design": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_food_processing": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_fashion": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_patent": {
+      "original": 100,
+      "effective": 100
+    },
+    "kmmlu_agricultural_sciences": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_marketing": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_real_estate": {
+      "original": 200,
+      "effective": 200
+    },
+    "kmmlu_health": {
+      "original": 100,
+      "effective": 100
+    },
+    "kmmlu_public_safety": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_energy_management": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_nondestructive_testing": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_telecommunications_and_wireless_technology": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_industrial_engineer": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_electronics_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_aviation_engineering_and_maintenance": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_machine_design_and_manufacturing": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_maritime_engineering": {
+      "original": 600,
+      "effective": 600
+    },
+    "kmmlu_gas_technology_and_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_railway_and_automotive_engineering": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_geomatics": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_environmental_science": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_psychology": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_korean_history": {
+      "original": 100,
+      "effective": 100
+    },
+    "kmmlu_taxation": {
+      "original": 200,
+      "effective": 200
+    },
+    "kmmlu_accounting": {
+      "original": 100,
+      "effective": 100
+    },
+    "kmmlu_political_science_and_sociology": {
+      "original": 300,
+      "effective": 300
+    },
+    "kmmlu_social_welfare": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_education": {
+      "original": 100,
+      "effective": 100
+    },
+    "kmmlu_law": {
+      "original": 1000,
+      "effective": 1000
+    },
+    "kmmlu_economics": {
+      "original": 130,
+      "effective": 130
+    },
+    "kmmlu_criminal_law": {
+      "original": 200,
+      "effective": 200
+    },
+    "kmmlu_management": {
+      "original": 1000,
+      "effective": 1000
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B,dtype=float16,device_map=auto,trust_remote_code=True",
+    "model_num_parameters": 1585547264,
+    "model_dtype": "torch.float16",
+    "model_revision": "main",
+    "model_sha": "1ae9d346994979a4a1b58b7d312008dce449ba40",
+    "batch_size": "auto",
+    "batch_sizes": [
+      8
+    ],
+    "device": "cuda",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": null,
+  "date": 1758615268.2252548,
+  "pretty_env_info": "PyTorch version: 2.8.0+cu126\nIs debug build: False\nCUDA used to build PyTorch: 12.6\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 22.04.4 LTS (x86_64)\nGCC version: (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0\nClang version: 14.0.0-1ubuntu1.1\nCMake version: version 3.31.6\nLibc version: glibc-2.35\n\nPython version: 3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0] (64-bit runtime)\nPython platform: Linux-6.6.97+-x86_64-with-glibc2.35\nIs CUDA available: True\nCUDA runtime version: 12.5.82\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA A100-SXM4-80GB\nNvidia driver version: 550.54.15\ncuDNN version: Probably one of the following:\n/usr/lib/x86_64-linux-gnu/libcudnn.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_adv.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_engines_precompiled.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_engines_runtime_compiled.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_graph.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_heuristic.so.9.2.1\n/usr/lib/x86_64-linux-gnu/libcudnn_ops.so.9.2.1\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                            x86_64\nCPU op-mode(s):                          32-bit, 64-bit\nAddress sizes:                           46 bits physical, 48 bits virtual\nByte Order:                              Little Endian\nCPU(s):                                  12\nOn-line CPU(s) list:                     0-11\nVendor ID:                               GenuineIntel\nModel name:                              Intel(R) Xeon(R) CPU @ 2.20GHz\nCPU family:                              6\nModel:                                   85\nThread(s) per core:                      2\nCore(s) per socket:                      6\nSocket(s):                               1\nStepping:                                7\nBogoMIPS:                                4400.52\nFlags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt clwb avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves arat avx512_vnni md_clear arch_capabilities\nHypervisor vendor:                       KVM\nVirtualization type:                     full\nL1d cache:                               192 KiB (6 instances)\nL1i cache:                               192 KiB (6 instances)\nL2 cache:                                6 MiB (6 instances)\nL3 cache:                                38.5 MiB (1 instance)\nNUMA node(s):                            1\nNUMA node0 CPU(s):                       0-11\nVulnerability Gather data sampling:      Not affected\nVulnerability Indirect target selection: Vulnerable\nVulnerability Itlb multihit:             Not affected\nVulnerability L1tf:                      Not affected\nVulnerability Mds:                       Not affected\nVulnerability Meltdown:                  Not affected\nVulnerability Mmio stale data:           Vulnerable\nVulnerability Reg file data sampling:    Not affected\nVulnerability Retbleed:                  Vulnerable\nVulnerability Spec rstack overflow:      Not affected\nVulnerability Spec store bypass:         Vulnerable\nVulnerability Spectre v1:                Vulnerable: __user pointer sanitization and usercopy barriers only; no swapgs barriers\nVulnerability Spectre v2:                Vulnerable; IBPB: disabled; STIBP: disabled; PBRSB-eIBRS: Vulnerable; BHI: Vulnerable\nVulnerability Srbds:                     Not affected\nVulnerability Tsa:                       Not affected\nVulnerability Tsx async abort:           Vulnerable\n\nVersions of relevant libraries:\n[pip3] numpy==2.0.2\n[pip3] nvidia-cublas-cu12==12.6.4.1\n[pip3] nvidia-cuda-cupti-cu12==12.6.80\n[pip3] nvidia-cuda-nvrtc-cu12==12.6.77\n[pip3] nvidia-cuda-runtime-cu12==12.6.77\n[pip3] nvidia-cudnn-cu12==9.10.2.21\n[pip3] nvidia-cufft-cu12==11.3.0.4\n[pip3] nvidia-curand-cu12==10.3.7.77\n[pip3] nvidia-cusolver-cu12==11.7.1.2\n[pip3] nvidia-cusparse-cu12==12.5.4.2\n[pip3] nvidia-cusparselt-cu12==0.7.1\n[pip3] nvidia-nccl-cu12==2.27.3\n[pip3] nvidia-nvjitlink-cu12==12.6.85\n[pip3] nvidia-nvtx-cu12==12.6.77\n[pip3] nvtx==0.2.13\n[pip3] optree==0.17.0\n[pip3] pynvjitlink-cu12==0.7.0\n[pip3] torch==2.8.0+cu126\n[pip3] torchao==0.10.0\n[pip3] torchaudio==2.8.0+cu126\n[pip3] torchdata==0.11.0\n[pip3] torchsummary==1.5.1\n[pip3] torchtune==0.6.1\n[pip3] torchvision==0.23.0+cu126\n[pip3] triton==3.4.0\n[conda] Could not collect",
+  "transformers_version": "4.56.1",
+  "lm_eval_version": "0.4.9.1",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<|endoftext|>",
+    "100257"
+  ],
+  "tokenizer_eos_token": [
+    "<|endofturn|>",
+    "100275"
+  ],
+  "tokenizer_bos_token": [
+    "<|endoftext|>",
+    "100257"
+  ],
+  "eot_token_id": 100275,
+  "max_length": 131072,
+  "task_hashes": {},
+  "model_source": "hf",
+  "model_name": "naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B",
+  "model_name_sanitized": "naver-hyperclovax__HyperCLOVAX-SEED-Text-Instruct-1.5B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": "{% if not add_generation_prompt is defined %}{% set add_generation_prompt = false %}{% endif %}{% for message in messages %}{{'<|im_start|>' + message['role'] + '\n' + message['content'] + '<|im_end|>' + '\n'}}{% endfor %}{% if add_generation_prompt %}{{ '<|im_start|>assistant\n' }}{% endif %}",
+  "chat_template_sha": "58c1a1f04baa7adaeaba1f90267c3d57d9396f0c1f0129bdde9e76d3c6784af7",
+  "start_time": 8746.779303325,
+  "end_time": 10034.950816324,
+  "total_evaluation_time_seconds": "1288.1715129990007"
+}

@@ -1,0 +1,21 @@
+{
+  "base_dir": "preprocessing/dataset_sejong",
+  "counts": {
+    "perplexity_parsed": 286,
+    "gpt_merged_from_parts": 314,
+    "raw_merged_total": 3200,
+    "final_cleaned": 2796
+  },
+  "invalid": {
+    "instruction_too_short": 69
+  },
+  "removed_exact_dups": 253,
+  "removed_near_dups": 82,
+  "near_dup_avg_compares_per_item": 1394.273,
+  "sklearn_available": true,
+  "params": {
+    "lang": "ko",
+    "max_tokens": 512,
+    "dedup_tfidf": 0.9
+  }
+}
